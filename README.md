@@ -8,7 +8,7 @@ Folder "TnSeq_WIG" contsin WIG files for Tn-seq.
 * ks193 - Initial library
 * ks195 - Bleomycin resistant colonies from SecM reporter
 
-Folder "RACE_WIG" contains WIG files for RACE
+Folder "RACE_WIG" contains WIG files for RACE seq
 * ks222 - 5RACE on SecM reporter in WT strain
 * ks223 - 5RACE on SecM reporter in ∆tmRNA strain
 * ks224 - 5RACE on SecM reporter in ∆smrB strain
