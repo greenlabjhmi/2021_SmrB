@@ -1,4 +1,4 @@
-# 2021_SDASD
+# 2021_SmrB
 
 The codes, data, and sequences to process and analyze FASTQ files for Tn-seq screening, 5'RACE-seq, and 3'RACE-seq in "Ribosome collisions induce mRNA cleavage and ribosome rescue in bacteria". First run codes for processing, then run codes for plotting. Sequences and data are in folders.
 
